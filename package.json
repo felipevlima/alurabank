@@ -8,6 +8,7 @@
     "start": "tsc -w"
   },
   "dependencies": {
+    "@types/jquery": "^3.3.33",
     "typescript": "^3.8.3"
   }
 }
